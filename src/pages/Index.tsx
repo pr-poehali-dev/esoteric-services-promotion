@@ -13,25 +13,25 @@ export default function Index() {
       icon: 'Sparkles',
       title: 'Таро',
       description: 'Раскрытие тайн прошлого, настоящего и будущего через древнее искусство карт Таро',
-      price: 'от 250 ₽'
+      price: 'от 3000 ₽'
     },
     {
       icon: 'Moon',
       title: 'Астрология',
       description: 'Персональный гороскоп, натальная карта и прогнозы на основе небесных светил',
-      price: 'от 250 ₽'
+      price: 'от 5000 ₽'
     },
     {
       icon: 'Eye',
       title: 'Ясновидение',
       description: 'Духовное консультирование и ответы на вопросы через развитую интуицию',
-      price: 'от 250 ₽'
+      price: 'от 4000 ₽'
     },
     {
       icon: 'Heart',
       title: 'Любовная магия',
       description: 'Гармонизация отношений, привлечение любви и исцеление сердечных ран',
-      price: 'от 250 ₽'
+      price: 'от 6000 ₽'
     }
   ];
 
@@ -102,8 +102,8 @@ export default function Index() {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
-              <h1 className="md:text-7xl font-bold mb-6 leading-tight text-5xl">
-                Откройте дверь<br />в мир <span className="text-primary"> эзотерики</span>
+              <h1 className="text-6xl md:text-7xl font-bold mb-6 leading-tight">
+                Откройте дверь<br />в мир <span className="text-primary">магии</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
                 Профессиональные эзотерические консультации и магические атрибуты для духовного развития
