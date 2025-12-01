@@ -85,7 +85,7 @@ export default function Index() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Icon name="Sparkles" className="text-accent" size={28} />
-            <span className="text-2xl font-bold">Мистика</span>
+            <span className="text-2xl font-bold">Мастерская Знахаря</span>
           </div>
           <div className="hidden md:flex gap-8">
             <a href="#home" className="hover:text-primary transition-colors">Главная</a>
