@@ -102,8 +102,8 @@ export default function Index() {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
-              <h1 className="text-6xl md:text-7xl font-bold mb-6 leading-tight">
-                Откройте дверь<br />в мир <span className="text-primary">магии</span>
+              <h1 className="md:text-7xl font-bold mb-6 leading-tight text-5xl">
+                Откройте дверь<br />в мир <span className="text-primary"> эзотерики</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
                 Профессиональные эзотерические консультации и магические атрибуты для духовного развития
