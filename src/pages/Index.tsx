@@ -190,28 +190,28 @@ export default function Index() {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <img 
-              src="https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/dcfefb49-cd27-483b-a156-bccefec193fa.jpg" 
+              src="https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/c676d8a6-f8ef-4ab4-9f9d-ae64d8e78c6e.jpg" 
               alt="Мастер" 
               className="rounded-2xl shadow-2xl glow"
             />
             <div>
               <h2 className="text-5xl font-bold mb-6">О мастере</h2>
               <p className="text-lg text-muted-foreground mb-4">
-                Добро пожаловать! Меня зовут Алина, и я практикующий таролог и астролог с 15-летним опытом.
+                Добро пожаловать! Меня зовут Алексей, и я практикующий таролог и нумеролог с 5-летним опытом.
               </p>
               <p className="text-lg text-muted-foreground mb-4">
                 Моя миссия — помочь людям найти ответы на важные вопросы, раскрыть свой потенциал и обрести гармонию с собой и миром.
               </p>
               <p className="text-lg text-muted-foreground mb-6">
-                Я провела более 5000 консультаций и помогла сотням людей найти свой путь через древние практики и современные методы работы с энергией.
+                Я провел более 500 консультаций и помог многим людям найти свой путь через древние практики и современные методы работы с энергией.
               </p>
               <div className="flex gap-6 mb-8">
                 <div>
-                  <div className="text-4xl font-bold text-primary mb-2">15+</div>
+                  <div className="text-4xl font-bold text-primary mb-2">5+</div>
                   <div className="text-muted-foreground">лет практики</div>
                 </div>
                 <div>
-                  <div className="text-4xl font-bold text-primary mb-2">5000+</div>
+                  <div className="text-4xl font-bold text-primary mb-2">500+</div>
                   <div className="text-muted-foreground">консультаций</div>
                 </div>
                 <div>
