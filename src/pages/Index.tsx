@@ -13,7 +13,7 @@ export default function Index() {
       icon: 'Sparkles',
       title: 'Таро',
       description: 'Раскрытие тайн прошлого, настоящего и будущего через древнее искусство карт Таро',
-      price: 'от 3000 ₽'
+      price: 'от 500 ₽'
     },
     {
       icon: 'Moon',
