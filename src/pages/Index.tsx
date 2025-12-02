@@ -6,7 +6,7 @@ import { Textarea } from '@/components/ui/textarea';
 import Icon from '@/components/ui/icon';
 
 export default function Index() {
-  const [formData, setFormData] = useState({ name: '', email: '', message: '' });
+  const [formData, setFormData] = useState({ name: '', phone: '', message: '' });
 
   const services = [
     {
@@ -271,12 +271,12 @@ export default function Index() {
                   />
                 </div>
                 <div>
-                  <label className="block mb-2 font-medium">Email</label>
+                  <label className="block mb-2 font-medium">Телефон</label>
                   <Input 
-                    type="email" 
-                    placeholder="your@email.com" 
-                    value={formData.email}
-                    onChange={(e) => setFormData({...formData, email: e.target.value})}
+                    type="tel" 
+                    placeholder="+7 (999) 123-45-67" 
+                    value={formData.phone}
+                    onChange={(e) => setFormData({...formData, phone: e.target.value})}
                   />
                 </div>
                 <div>
