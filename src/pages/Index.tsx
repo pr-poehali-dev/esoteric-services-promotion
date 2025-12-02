@@ -37,21 +37,21 @@ export default function Index() {
 
   const products = [
     {
-      image: 'https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/898ffe4d-b11d-4ad9-8d82-1d34a1cca3cd.jpg',
-      title: 'Набор "Первые шаги"',
-      description: 'Колода Таро, свечи, благовония',
-      price: '2500 ₽'
+      image: 'https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/6a01cb8b-dff0-4391-ab29-f3d357b1309d.jpg',
+      title: 'Набор "Гармонизация чакр"',
+      description: 'Свечи, благовония, инструкция',
+      price: '2900 ₽'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/898ffe4d-b11d-4ad9-8d82-1d34a1cca3cd.jpg',
-      title: 'Кристаллы силы',
-      description: 'Аметист, розовый кварц, цитрин',
-      price: '1800 ₽'
+      image: 'https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/907b1870-d4fc-4142-abea-f7d7b5bbf67a.jpg',
+      title: 'Четверговая соль',
+      description: 'Состав: 5 мешочков',
+      price: '1500 ₽'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/898ffe4d-b11d-4ad9-8d82-1d34a1cca3cd.jpg',
-      title: 'Пентакль защиты',
-      description: 'Ручная работа, серебро 925',
+      image: 'https://cdn.poehali.dev/projects/a7bb806e-3df1-414a-bd5f-db417adb0633/files/06d7c831-91d4-49ec-bd03-aa1e17d5113b.jpg',
+      title: 'Оберег защиты',
+      description: 'Серебряная цепочка или браслет',
       price: '4200 ₽'
     }
   ];
