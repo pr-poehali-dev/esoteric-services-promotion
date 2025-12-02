@@ -288,6 +288,17 @@ export default function Index() {
                     onChange={(e) => setFormData({...formData, message: e.target.value})}
                   />
                 </div>
+                <div className="flex items-start gap-2">
+                  <input 
+                    type="checkbox" 
+                    id="consent" 
+                    required 
+                    className="mt-1"
+                  />
+                  <label htmlFor="consent" className="text-sm text-muted-foreground">
+                    Я соглашаюсь на обработку персональных данных в соответствии с Федеральным законом № 152-ФЗ "О персональных данных"
+                  </label>
+                </div>
                 <Button type="submit" size="lg" className="w-full glow">
                   <Icon name="Send" size={20} className="mr-2" />
                   Отправить сообщение
