@@ -91,7 +91,7 @@ export default function Index() {
             <a href="#home" className="hover:text-primary transition-colors">Главная</a>
             <a href="#services" className="hover:text-primary transition-colors">Услуги</a>
             <a href="#catalog" className="hover:text-primary transition-colors">Каталог</a>
-            <a href="#about" className="hover:text-primary transition-colors">О мастере</a>
+            <a href="#about" className="hover:text-primary transition-colors">Мастер</a>
             <a href="#reviews" className="hover:text-primary transition-colors">Отзывы</a>
             <a href="#contact" className="hover:text-primary transition-colors">Контакты</a>
           </div>
