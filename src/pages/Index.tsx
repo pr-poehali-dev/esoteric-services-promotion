@@ -306,7 +306,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Icon name="MessageCircle" className="text-primary" size={24} />
-                    <span>@mystic_tarot</span>
+                    <span>https://wa.me/79939735513</span>
                   </div>
                 </div>
               </div>
