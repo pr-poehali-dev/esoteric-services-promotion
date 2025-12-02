@@ -302,7 +302,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Icon name="Phone" className="text-primary" size={24} />
-                    <span>+7 (900) 123-45-67</span>
+                    <span>+7 (950) 033-55-13</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <Icon name="MessageCircle" className="text-primary" size={24} />
@@ -319,7 +319,7 @@ export default function Index() {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Icon name="Sparkles" className="text-accent" size={28} />
-            <span className="text-2xl font-bold">Мистика</span>
+            <span className="text-2xl font-bold">Мастерская Знахаря</span>
           </div>
           <p className="text-muted-foreground mb-4">
             Эзотерические консультации и магические атрибуты
