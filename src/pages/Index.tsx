@@ -165,9 +165,9 @@ export default function Index() {
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             {products.map((product, index) => (
-              <Card key={index} className="overflow-hidden hover:scale-105 transition-transform cursor-pointer glow">
+              <Card key={index} className="overflow-hidden hover:scale-105 transition-transform cursor-pointer glow flex flex-col">
                 <img src={product.image} alt={product.title} className="w-full h-64 object-cover" />
-                <CardHeader>
+                <CardHeader className="flex-grow">
                   <CardTitle className="text-xl">{product.title}</CardTitle>
                   <CardDescription>{product.description}</CardDescription>
                 </CardHeader>
