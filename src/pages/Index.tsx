@@ -298,7 +298,7 @@ export default function Index() {
                 <div className="flex flex-col gap-4">
                   <div className="flex items-center gap-3">
                     <Icon name="Mail" className="text-primary" size={24} />
-                    <span>mystic@example.com</span>
+                    <span>https://t.me/+79939735513</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <Icon name="Phone" className="text-primary" size={24} />
