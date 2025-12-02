@@ -106,7 +106,7 @@ export default function Index() {
                 Откройте дверь<br />в мир <span className="text-primary"> эзотерики</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
-                Профессиональные эзотерические консультации и магические атрибуты для духовного развития
+                Профессиональные консультации и магические атрибуты для духовного развития
               </p>
               <div className="flex gap-4">
                 <Button size="lg" className="glow">
